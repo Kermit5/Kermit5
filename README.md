@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kermit5
+- 👀 I’m interested in EDA
+- 🌱 I’m currently learning Unity and C++
+- 💞️ I’m looking to collaborate on EDA
+- 📫 How to reach me ...
